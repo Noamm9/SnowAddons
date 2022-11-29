@@ -1,0 +1,56 @@
+
+[general]
+
+	[general.lightning]
+		hide_lightning = false
+
+	[general.api]
+		hypixel_api_key = "0101f5c5-e63d-44ad-be05-56b22f34f9db"
+
+[automatic_messages]
+
+	[automatic_messages.toxic_death_message]
+		toxic_death_message = false
+		toggle = true
+		message_to_say_in_chat = "player died and this is why he's not in my friend's list"
+
+	[automatic_messages.special_score_message]
+		300_score = true
+		270_score = true
+
+[terminal]
+
+	[terminal.terminal_counter]
+		toggle = false
+		terminal_counter = false
+
+	[terminal.terminal_highlighter]
+		toggle = false
+		terminal_highlighter = false
+
+[dungeon]
+
+	[dungeon.rabbit_hat_notifier]
+		rabbit_hat_notifier = true
+		toggle = false
+
+	[dungeon.show_extra_stats]
+		show_extra_stats = false
+		toggle = false
+
+	[dungeon.boss_alerts]
+		bonzo_notifier = true
+		scarf_notifier = true
+		the_professor_notifier = true
+
+	[dungeon.blood_room_alerts]
+		blood_door_opened_notifier = true
+		rabbit_hat_notifier = false
+		watcher_ready = true
+		watcher_cleared = true
+
+	[dungeon.auto_restart_dungeon]
+		delay = 12000
+		autorestart = false
+		keybind_autorestart = false
+
