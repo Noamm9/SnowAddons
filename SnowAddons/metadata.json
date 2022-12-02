@@ -1,8 +1,0 @@
-{
-    "entry": "main1.js",
-    "name":"SnowAddons",
-    "description": "&8[&b&lSnowAddons&8]&r &aHas a lot of usefull QOL features!. &b/snowaddons",
-    "creator": "Snomn",
-    "requires": ["SnowCore", "RenderLib", "PersistentData", "Vigilance"],
-    "version": "1.0.1"
-}
