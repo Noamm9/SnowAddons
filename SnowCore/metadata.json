@@ -1,0 +1,12 @@
+{
+    "name": "SnowCore",
+    "description": "Bunch of backend Skyblock related libraries and stuff.",
+    "creator": "Snomn123",
+    "version": "0.0.1",
+    "entry": "index.js",
+    "requires": [
+        "requestV2",
+        "PromiseV2",
+        "PogData"
+    ]
+}
